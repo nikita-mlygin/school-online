@@ -16,3 +16,5 @@
 Мария			    / FE	Js React	https://github.com/marmaran
 
 Александр Бауков BE php Js    https://github.com/Holyskretch
+
+Никита Малыгин / BE PHP       https://github.com/nikita-mlygin
